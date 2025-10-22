@@ -17,8 +17,6 @@
 - `/api/records` 가 `[]` - 데이터 를 반환해야 함
 - 폼 제출 → 누적 리스트 표시
 - JSON 다운로드 버튼 → records.json 저장
-<script>
-  const studentId = "2024073";
-  const studentName = "조민재";
-  document.getElementById("student-info").innerHTML = `저장.<br>학번: ${studentId}<br>이름: ${studentName}`;
-</script>
+
+학번: 2024073 
+이름: 조민재
